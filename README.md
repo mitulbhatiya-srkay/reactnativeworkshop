@@ -13,13 +13,13 @@ A hands-on workshop to help you get started with building mobile apps using Reac
 
 Please follow the installation guide before the workshop begins:
 
-👉 [React Native Installation Guide](https://docspace.srkay.com/docs/react-native/installation-guide)
+👉 [React Native Installation Guide](https://docspace.srkay.com/docs/react-native/environment-setup)
 
 Make sure your environment is fully set up (Node, Android Studio/Xcode, emulator or physical device) **before** attending, so we can dive straight into building.
 
 ## 📚 Resources
 
-- [React Native Installation Guide](https://docspace.srkay.com/docs/react-native/installation-guide)
+- [React Native Installation Guide](https://docspace.srkay.com/docs/react-native/environment-setup)
 - [React Native Official Docs](https://reactnative.dev/docs/getting-started)
 
 Happy coding! 🎉
